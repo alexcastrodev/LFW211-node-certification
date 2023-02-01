@@ -1,0 +1,3 @@
+function something {
+    return false
+}
