@@ -67,5 +67,23 @@ https://calculator.name/scientific-notation-to-decimal/1e-4
 - Boolean: `true, false`
 - Symbol: `Symbol('description'), Symbol.for('namespace')`
 
+# Symbols
 
-# Extra
+You can find some assertion in Symbols.js and understand 
+
+# Functions
+
+Functions are first class citizens in JavaScript. 
+A function is an object, and therefore a value that can be used like any other value.
+
+I Highlight 2 interest topic here
+
+## Call method
+Functions have a call method that can be used to set their this context
+
+Examples in functions.js
+
+## Bind method
+Functions have a bind method that can be used to create a reference of function setting a context
+
+Examples in functions.js
