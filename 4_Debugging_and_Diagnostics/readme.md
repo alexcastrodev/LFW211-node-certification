@@ -15,6 +15,9 @@ In my case, when i set a breakpoint in the line 2, VSCode shows variables, but w
 
 To enable a continuous inspect server, you should use `inspect-brk`
 
+## Important Note
+In order to set a breakpoint on the first line of execution when entering debug mode
+
 ```bash
 node --inspect-brk app.js
 ```
