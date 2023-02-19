@@ -87,3 +87,16 @@ Examples in functions.js
 Functions have a bind method that can be used to create a reference of function setting a context
 
 Examples in functions.js
+
+
+# Prototypal Inheritance (Functional)
+
+There are many approaches and variations to creating a prototype chain in JavaScript but we will explore three common approaches: 
+
+functional
+constructor functions
+class-syntax constructors
+
+The functional approach to creating prototype chains is to use Object.create
+
+Examples in: prototypal_inheritance_functional.js
