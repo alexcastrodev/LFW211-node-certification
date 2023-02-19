@@ -93,10 +93,56 @@ Examples in functions.js
 
 There are many approaches and variations to creating a prototype chain in JavaScript but we will explore three common approaches: 
 
-functional
-constructor functions
-class-syntax constructors
 
 The functional approach to creating prototype chains is to use Object.create
 
+functional
 Examples in: prototypal_inheritance_functional.js
+
+constructor functions
+Examples in: prototypal_inheritance_constructor_functions.js
+
+# Extra
+
+### I Need this note for future
+
+In JavaScript runtimes that support EcmaScript 5+ the Object.create function could be used to the same effect:
+
+```javascript
+function Dog (name) {
+  Wolf.call(this, name + ' the dog')
+}
+
+Dog.prototype = Object.create(Wolf.prototype)
+
+Dog.prototype.woof = function () {
+  console.log(this.name + ': woof')
+}
+```
+
+Node.js has a utility function: util.inherits that is often used in code bases using constructor functions:
+
+```javascript
+const util = require('util')
+
+function Dog (name) {
+  Wolf.call(this, name + ' the dog')
+}
+
+Dog.prototype.woof = function () {
+  console.log(this.name + ': woof')
+}
+
+util.inherits(Dog, Wolf)
+```
+
+In contemporary Node.js, util.inherits uses the EcmaScript 2015 (ES6) method Object.setPrototypeOf under the hood. It's essentially executing the following:
+
+Object.setPrototypeOf(Dog.prototype, Wolf.prototype)
+
+This explicitly sets the prototype of Dog.prototype to Wolf.prototype, discarding whatever previous prototype it had.
+
+
+class-syntax constructors
+Examples in: prototypal_inheritance_class_syntax_constructors.js
+
