@@ -26,6 +26,11 @@ const Dog = Object.create(Person, {
 
 deepEqual(Dog.talk(), 'Caramelo the dog: Hi')
 
+// Check prototype chain
+deepEqual(Object.getPrototypeOf(Dog), Person)
+
+
+
 // Enumerable properties are those properties whose 
 // internal enumerable flag is set to true, 
 // which is the default for properties created via simple assignment or via a property initializer. 
@@ -51,6 +56,9 @@ const Cat = Object.create(Dog, {
 deepEqual(Cat.talk(), 'Ragdoll the cat: Hi')
 deepEqual(Object.values(Cat), [])
 
+
+// Check prototype chain
+deepEqual(Object.getPrototypeOf(Cat), Dog)
 
 // Others Properties
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty#description
@@ -133,4 +141,4 @@ const person3 = Object.create({}, {
 
 person3.name = 'Alex'
 
-deepEqual(person3.name, 'ALX :)')
+deepEqual(person3.name, 'ALEX :)')
