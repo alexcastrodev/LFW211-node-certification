@@ -110,3 +110,27 @@ Object.defineProperty(person, "name", { writable: true });
 
 person.name = 'Someone'
 deepEqual(person.name, 'Someone')
+
+
+
+// ---------------------------------------------------
+// Get and Setter
+
+const person3 = Object.create({}, {
+  name: {
+    get: function() {
+      return this._name + ' :)';
+    },
+    set: function(value) {
+      this._name = value.toUpperCase();
+    }
+  },
+  age: {
+    value: 30,
+    writable: true
+  }
+});
+
+person3.name = 'Alex'
+
+deepEqual(person3.name, 'ALX :)')
