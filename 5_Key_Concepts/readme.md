@@ -146,3 +146,8 @@ This explicitly sets the prototype of Dog.prototype to Wolf.prototype, discardin
 class-syntax constructors
 Examples in: prototypal_inheritance_class_syntax_constructors.js
 
+# Closures
+
+When a function is created, an invisible object is also created, this is known as the closure scope. Parameters and variables created in the function are stored on this invisible object.
+
+examples in closures.js
