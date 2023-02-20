@@ -157,3 +157,17 @@ examples in closures.js
 This note is very important
 
 The advantage of using closure scope to compose objects is it eliminates the complexity of prototypes, context (this) and the need to call a function with new – which when omitted can have unintended consequences. The downside is that where a prototype method is shared between multiple instances, an approach using closure scope requires that internal functions are created per instance. However, JavaScript engines use increasingly sophisticated optimization techniques internally, it's only important to be fast enough for any given use case and ergonomics and maintainability should take precedence over every changing performance characteristics in JavaScript engines. Therefore it's recommended to use function composition over prototypal inheritance and optimize at a later point if required
+
+
+In JavaScript, there are two common ways to achieve code reuse and modularity: function composition and prototypal inheritance.
+
+Function composition involves combining small, independent functions to create larger, more complex functions. This allows you to build functionality step-by-step, and the resulting code is often more modular and easier to test and debug.
+
+Prototypal inheritance, on the other hand, involves creating objects that inherit properties and methods from a parent object. This can be useful for creating complex objects with shared functionality, but can also make code harder to understand and modify, particularly when inheritance chains become long and complicated.
+
+The statement "it's recommended to use function composition over prototypal inheritance and optimize at a later point if required" suggests that, when building a new system, it is generally better to start with function composition and avoid prototypal inheritance unless it is absolutely necessary. Function composition tends to lead to more modular, maintainable code, which is easier to reason about and less prone to unexpected bugs.
+
+However, if performance becomes a concern or if there are specific use cases where prototypal inheritance would be particularly useful, it can be optimized or added later in the development process. This allows you to balance the benefits of modularity and ease of maintenance with the need for speed and complexity.
+
+
+
