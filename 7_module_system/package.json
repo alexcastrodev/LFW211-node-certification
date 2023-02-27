@@ -1,0 +1,19 @@
+{
+  "name": "7_module_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard"
+  },
+  "dependencies": {
+    "pino": "^8.11.0"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
