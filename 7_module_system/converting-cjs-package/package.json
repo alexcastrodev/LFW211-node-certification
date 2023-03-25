@@ -1,0 +1,17 @@
+{
+  "name": "converting-cjs-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "pino": "^8.11.0",
+    "standard": "^17.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
