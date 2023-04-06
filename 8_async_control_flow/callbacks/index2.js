@@ -10,7 +10,7 @@ const onSuccess = (contents, fileName) => {
 
 
 const read = (filename) => {
-  readFile(`./${filename}`, (err, contents) => {
+  readFile(`../assets/${filename}`, (err, contents) => {
     if (err) {
       onError(err)
       return

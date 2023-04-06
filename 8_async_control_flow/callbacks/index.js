@@ -7,7 +7,7 @@ const onError = (err) => {
 const onSuccess = (contents) => {
   console.log(contents.toString())
 }
-readFile('./file.txt', (err, contents) => {
+readFile('../assets/file.txt', (err, contents) => {
   if (err) {
     onError(err)
     return
