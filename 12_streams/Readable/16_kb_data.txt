@@ -1,0 +1,963 @@
+Name,Age,Location
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
+Max,1,Chicago
+Molly,3,Houston
+Charlie,6,Philadelphia
+Daisy,2,Phoenix
+Rocky,4,San Antonio
+Maggie,7,San Diego
+Bailey,2,Dallas
+Sadie,3,San Jose
+Jack,5,Austin
+Lucy,1,Jacksonville
+Oliver,6,San Francisco
+Toby,4,Indianapolis
+Luna,2,Columbus
+Cooper,3,Fort Worth
+Bear,5,Charlotte
+Bella,1,Seattle
+Duke,4,Denver
+Roxy,6,Washington D.C.
+Buddy,5,New York
+Lucky,2,Los Angeles
