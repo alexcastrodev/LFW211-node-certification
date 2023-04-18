@@ -9,6 +9,7 @@ const createReadStream = () => {
     const data = ['sonic', 'mario']
     
     return new Readable({
+        // encoding: 'utf8', // I can set the encoding instead return buffers
         read() {
             // Chunk will remove the first element of the array
             const chunk = data.shift()
