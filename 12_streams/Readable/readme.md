@@ -101,6 +101,10 @@ error
 - Binary stream ( default mode )
 - Object stream
 
+Readable streams are usually connected to an I/O layer via a C-binding, but we can create a contrived readable stream ourselves using the Readable constructor:
+
+
+
 ### Extra
 
 16_kb_data.txt
