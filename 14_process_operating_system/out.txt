@@ -1,0 +1,61 @@
+initialized
+🚀 ~ file: index.js:19 ~ process.stdout: <ref *1> SyncWriteStream {
+  _writableState: <ref *2> WritableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    finalCalled: false,
+    needDrain: false,
+    ending: false,
+    ended: false,
+    finished: false,
+    destroyed: false,
+    decodeStrings: true,
+    defaultEncoding: 'utf8',
+    length: 0,
+    writing: false,
+    corked: 0,
+    sync: false,
+    bufferProcessing: false,
+    onwrite: [Function: bound onwrite],
+    writecb: null,
+    writelen: 0,
+    afterWriteTickInfo: {
+      count: 1,
+      cb: [Function (anonymous)],
+      stream: [Circular *1],
+      state: [Circular *2]
+    },
+    buffered: [],
+    bufferedIndex: 0,
+    allBuffers: true,
+    allNoop: true,
+    pendingcb: 1,
+    constructed: true,
+    prefinished: false,
+    errorEmitted: false,
+    emitClose: true,
+    autoDestroy: true,
+    errored: null,
+    closed: false,
+    closeEmitted: false,
+    [Symbol(kOnFinished)]: []
+  },
+  _events: [Object: null prototype] {
+    unpipe: [ [Function: onunpipe], [Function: onunpipe] ],
+    error: [ [Function: onerror], [Function: onerror] ],
+    close: [ [Function], [Function] ],
+    finish: [ [Function], [Function] ]
+  },
+  _eventsCount: 4,
+  _maxListeners: undefined,
+  fd: 1,
+  readable: false,
+  autoClose: false,
+  _type: 'fs',
+  _isStdio: true,
+  destroySoon: [Function (anonymous)],
+  _destroy: [Function: dummyDestroy],
+  [Symbol(kCapture)]: false
+}
+86c5f527bc2ce2f33de708ca57ae46b2e8f68a6cc1d8bd4c523c87920b0906dbfb864c68c10f32b035021a38f307a612699719f542b1f59417697c39a7540f13b3779b7837481b90cabe95497da4bc8f7a7feeffe66618c45c9f1a25d35b9f5d7f60464c
+86C5F527BC2CE2F33DE708CA57AE46B2E8F68A6CC1D8BD4C523C87920B0906DBFB864C68C10F32B035021A38F307A612699719F542B1F59417697C39A7540F13B3779B7837481B90CABE95497DA4BC8F7A7FEEFFE66618C45C9F1A25D35B9F5D7F60464C
