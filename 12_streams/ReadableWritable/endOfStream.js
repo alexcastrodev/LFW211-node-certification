@@ -2,9 +2,11 @@
 const net = require('net')
 const { finished } = require('stream')
 net.createServer((socket) => {
+  
   const interval = setInterval(() => {
     socket.write('beat')
   }, 1000)
+
   socket.on('data', (data) => {
     socket.write(data.toString().toUpperCase())
   })
