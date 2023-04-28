@@ -1,5 +1,6 @@
 import { fork } from 'child_process'
 import { createReadStream } from 'fs'
+import { join } from 'path'
 import { Writable } from 'stream'
 import { pipeline } from 'stream/promises'
 
@@ -29,7 +30,10 @@ function roundRobin(array, index = 0) {
 }
 
 const getProcess = roundRobin([...processes.values()])
-console.log(`Processes: ${processes.size}`)
+
+function onChildMessage(msg) {
+    console.log(`Message from child ${this.pid}: ${msg}`)
+}
 
 ;(async function() {
     await pipeline(
@@ -37,8 +41,9 @@ console.log(`Processes: ${processes.size}`)
         async function* (source) {
             for await (const chunk of source) {
                 const child = getProcess()
-                child.send(chunk.toString())
-                yield chunk
+                child.on('message', onChildMessage)
+                child.send(chunk)
+                yield chunk // send to next stream
             }
         },
         Writable({
