@@ -46,5 +46,9 @@ function AsyncReadFile(filename = '') {
 AsyncReadFile(__filename).then(({ data }) => {
     console.log('data', data)
 }).catch((err) => {
+    if(typeof err === FileNotFoundError) {
+
+    }
+    
     console.log(err.filename)
 })
