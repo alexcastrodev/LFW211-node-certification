@@ -1,0 +1,1 @@
+To create a file with a size of 1GB using Node.js with CommonJS modules, you can use the fs module to write random data to the file. Here's an example:
