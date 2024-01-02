@@ -1,0 +1,117 @@
+repo_name: AlexcastroDev/LFW211-node-certification
+report_id: 7cb08a495fca447698302c7dd6100f30
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-02T14:23:07+00:00'
+requested_by: AlexcastroDev
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: 12_streams/AsyncPipeline/yarn.lock
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-06-18 14:02:27.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: 7_module_system/converting-cjs-package/package.json
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-03-25 22:34:10.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification/blob/main/12_streams/AsyncPipeline/package-lock.json
+  detection_source: 12_streams/AsyncPipeline/package.json
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-06-18 14:02:27.000000000 Z
+- name: pino
+  description: Super fast, all natural json logger
+  package_url: https://www.npmjs.com/pino
+  version: 8.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16974/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification/blob/main/7_module_system/converting-cjs-package/yarn.lock
+  detection_source: 7_module_system/converting-cjs-example/package.json
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-03-25 22:34:10.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 17.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification/blob/main/7_module_system/converting-cjs-package/yarn.lock
+  detection_source: 7_module_system/converting-cjs-package/package.json
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-03-25 22:34:10.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 16.3.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification/blob/main/16_writing_unit_tests/tap_test/yarn.lock
+  detection_source: 16_writing_unit_tests/tap_test/package.json
+  last_updated_by: Alex Oliveira
+  last_updated_on: 2023-04-20 00:15:41.000000000 Z
