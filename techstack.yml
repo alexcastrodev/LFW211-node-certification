@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/LFW211-node-certification
 report_id: 7cb08a495fca447698302c7dd6100f30
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:23:07+00:00'
+timestamp: '2024-01-05T08:12:14+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -36,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification/blob/main/12_streams/AsyncPipeline/yarn.lock
   detection_source: 12_streams/AsyncPipeline/yarn.lock
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-06-18 14:02:27.000000000 Z
@@ -56,6 +60,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/LFW211-node-certification/blob/main/7_module_system/converting-cjs-package/package.json
   detection_source: 7_module_system/converting-cjs-package/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-03-25 22:34:10.000000000 Z
