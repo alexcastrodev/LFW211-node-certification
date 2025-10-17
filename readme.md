@@ -13,3 +13,7 @@ Improve your versatility in creating various types of Node.js application. Cover
 Lesson 01 and 02, just show about Linux Foundation, and Setting up NVM.
 
 If you dont know what is Package manager, idk if you want to start this certification
+
+# SAVE MONEY
+
+https://courses.dwf.dev/docs/javascript/jsnad-course-notes#0---highlighted-learnings
